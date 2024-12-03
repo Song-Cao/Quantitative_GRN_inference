@@ -21,3 +21,6 @@ This repository implements a pipeline to infer dynamic Gene Regulatory Networks 
     source env/bin/activate
     pip install -r requirements.txt
     ```
+
+## Benchmark performance
+![Performance comparison with SOTA models on recovering GRN](benchmark.png)
