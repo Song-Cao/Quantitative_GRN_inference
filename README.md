@@ -1,6 +1,6 @@
-# Quantitative GRN Inference from Spatio-temporal Single-Cell Data
+# In-silico Cell Model from Spatio-temporal Single-Cell Data
 
-This repository implements a pipeline to infer dynamic Gene Regulatory Networks (GRNs) from spatial and temporal single-cell data using an integrated Graph Attention Network (GAT) and Transformer architecture.
+This repository implements a pipeline to infer dynamic Gene Regulatory Networks (GRNs) from spatial and temporal single-cell data using an integrated Graph Attention Network (GAT) and Transformer architecture. The infered GRNs are quantitative and can be utilized to simulate cellular state progressions
 
 ## Features
 - **Data Preprocessing**: Quality control and normalization of spatial single-cell data.
