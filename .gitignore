@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.h5ad            # Single-cell data files
+data/*.csv             # Processed datasets
+data/*.npy             # GRN adjacency matrices
+data/*.pkl             # Serialized objects                          
+
+# Model files
+models/*.pth           
+models/*.pt                    
+
+# Logs
+*.log                  
+
+# Temporary files and backup
+*.tmp
+*.swp
+.DS_Store
+
